@@ -22,7 +22,7 @@
     <br>
 
     <label for="mother"><b>Mother Name</b></label>
-    <input type="text" Placheholder="Mother Name" name="mother" id="mother" required>
+    <input type="text" placeholder="Mother Name" name="mother" id="mother" required>
     <br>
 
     <button type="submit" class="registerbtn">Register</button>
