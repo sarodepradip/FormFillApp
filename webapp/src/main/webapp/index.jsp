@@ -29,6 +29,10 @@
     <input type="text" placeholder="Mother Name" name="mother" id="mother" required>
     <br>
 
+    <label for="brother"><b>brother Name</b></label>
+    <input type="text" placeholder="brother Name" name="brother" id="brother" required>
+    <br>
+
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
