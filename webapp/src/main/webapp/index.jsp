@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-<h1>!!--!! Join CodeOne and start your journey with a company focused on innovation, technology, and professional growth. !!--!!</h1>
+<h1>!!-@-!! Join CodeOne and start your journey with a company focused on innovation, technology, and professional growth. !!-@-!!</h1>
     <p>Please fill in this form for registration!!! Thankyou </p>
     <hr>
     <br>  
