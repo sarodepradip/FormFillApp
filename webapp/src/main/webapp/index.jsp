@@ -33,6 +33,11 @@
     <input type="text" placeholder="brother Name" name="brother" id="brother" required>
     <br>
 
+    <label for="sister"><b>sister Name</b></label>
+    <input type="text" placeholder="sister Name" name="sister" id="sister" required>
+    <br>
+
+
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
