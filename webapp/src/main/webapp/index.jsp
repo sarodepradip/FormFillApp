@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-<h1>*#-#* Join CodeOne and start your journey with a company focused on innovation, technology, and professional growth. *#-#*</h1>
+<h1>  Join CodeOne and start your journey with a company focused on innovation, technology, and professional growth. </h1>
     <p>*** Please fill in this form for registration!!! Thankyou *** </p>
     <hr>
     <br>  
@@ -35,9 +35,6 @@
 
     <label for="sister"><b>sister Name</b></label>
     <input type="text" placeholder="sister Name" name="sister" id="sister" required>
-    <br>
-    <label for="son"><b>son Name</b></label>
-    <input type="text" placeholder="son Name" name="son" id="son" required>
     <br>
 
     <button type="submit" class="registerbtn">Register</button>
